@@ -1,0 +1,24 @@
+{
+  "name": "jest-windows-module-resolve-issue",
+  "version": "1.0.0",
+  "description": "Small reproduction of jest issue with windows module resolve paths",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erik-lundgren/jest-windows-module-resolve-issue.git"
+  },
+  "author": "Erik Lundren <erik@lundgren.cc>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erik-lundgren/jest-windows-module-resolve-issue/issues"
+  },
+  "homepage": "https://github.com/erik-lundgren/jest-windows-module-resolve-issue#readme",
+  "dependencies": {
+    "jest": "^20.0.4",
+    "babel-jest": "^20.0.3",
+    "babel-preset-env": "^1.5.1"
+  }
+}
